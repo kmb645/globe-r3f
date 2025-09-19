@@ -23,7 +23,7 @@ A 3D interactive globe visualizer built with [React Three Fiber](https://docs.pm
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/your-username/globe-r3f.git
+git clone https://github.com/kmb645/globe-r3f.git
 cd globe-r3f
 npm install
 ```
